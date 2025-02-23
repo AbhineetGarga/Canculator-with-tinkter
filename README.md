@@ -1,0 +1,5 @@
+<h1 align="center" id="title">Calculator using Tinkter</h1>
+
+<p align="center"><img src="https://images.app.goo.gl/JVBoqfAuNusFQVRF6" alt="project-image"></p>
+
+<p id="description">This project is built using the Tkinter library which is Python's standard GUI (Graphical User Interface) toolkit. The application is a fully functional calculator that allows users to perform basic arithmetic operations such as addition subtraction multiplication and division. Key Features of the Calculator App: User-Friendly Interface: Designed with a simple and intuitive layout making it easy to use. Basic Arithmetic Operations: Supports addition subtraction multiplication and division. Real-Time Calculations: Displays results instantly as the user inputs numbers and operators. Error Handling: Prevents invalid operations like division by zero. Responsive Design: Buttons and text fields adjust dynamically to different window sizes. This project serves as a great introduction to GUI programming with Tkinter and demonstrates how to create interactive desktop applications using Python.</p>
